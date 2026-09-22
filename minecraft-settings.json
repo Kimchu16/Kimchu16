@@ -1,0 +1,367 @@
+{
+  "type": "bitmap",
+  "fileName": "minecraft-raw.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#d0dcc6",
+  "strongColor": "#b9dd8d",
+  "weakColor": "#8b9a86",
+  "radarColor": "#84ad65",
+  "growingAnimation": true,
+  "contribPatterns": [
+    {
+      "top": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "left": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "right": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      }
+    },
+    {
+      "top": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "left": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "right": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      }
+    },
+    {
+      "top": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "left": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "right": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      }
+    },
+    {
+      "top": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "left": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "right": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      }
+    },
+    {
+      "top": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "left": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      },
+      "right": {
+        "width": 16,
+        "bitmap": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "backgroundColor": "#719b48",
+        "foregroundColor": "#527c35"
+      }
+    }
+  ]
+}
